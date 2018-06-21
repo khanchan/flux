@@ -99,8 +99,8 @@ If you want to learn more about Weave Cloud, you can see it in action on
 [its homepage](https://www.weave.works/product/cloud/).
 
 [RED metrics]: https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/
-[observability features in Weave Cloud]: https://www.weave.works/features/troubleshooting-dashboard/
-[monitoring features in Weave Cloud]: https://www.weave.works/features/prometheus-monitoring/
+[observability features in Weave Cloud]: https://www.weave.works/features/troubleshooting-dashboard/?utm_source=gh&utm_medium=link&utm_campaign=flux-wc
+[monitoring features in Weave Cloud]: https://www.weave.works/features/prometheus-monitoring/?utm_source=gh&utm_medium=link&utm_campaign=flux-wc
 
 ## Get started with Flux
 
